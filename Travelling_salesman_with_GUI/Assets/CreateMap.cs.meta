@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 76fdc10af00496c498f44cd09d0493b7
+timeCreated: 1460548907
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - VillePrefab: {fileID: 143098, guid: c40a031b76fabb44fa3a6c71bf7fad97, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

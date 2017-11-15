@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Esiee AR - Better Image.unity
+  isLoaded: 1
+  isActive: 1
